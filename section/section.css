@@ -1,0 +1,26 @@
+.section {
+    max-width: 120rem;
+    height: 62rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Scenter {
+    width: 100%;
+    height: 98%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1%;
+}
+.Scuadrito {
+    height: 30rem;
+    width: 100%;
+    background-color: rgb(248, 150, 3);
+    border-radius: 0.7rem;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+
+}

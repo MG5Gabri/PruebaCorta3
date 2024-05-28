@@ -1,0 +1,25 @@
+.header {
+    max-width: 120rem;
+    height: 4rem;
+    margin: auto;
+    background-color: mediumseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Hcenter {
+    width: 99%;
+    display: grid;
+    grid-template-columns: 24.5% 50% 24.5%;
+    gap: 0.5%;
+}
+.Hcuadrito {
+    height: 2.5rem;
+    width: 100%;
+    background-color: green;
+    border-radius: 0.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+.footer {
+    max-width: 120rem;
+    height: 4rem;
+    margin: auto;
+    background-color: rgb(83, 83, 83);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Fcenter {
+    width: 96%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1%;
+}
+.Fcuadrito {
+    height: 2.5rem;
+    width: 100%;
+    background-color: gray;
+    border-radius: 0.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
